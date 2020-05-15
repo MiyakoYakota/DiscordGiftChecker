@@ -1,2 +1,2 @@
 # DiscordGiftChecker
-Multithreaded proxy/proxyless discord.gift checker
+Multithreaded proxied/proxyless discord.gift checker
